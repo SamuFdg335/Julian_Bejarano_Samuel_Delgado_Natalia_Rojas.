@@ -1,5 +1,4 @@
 # Julian_Bejarano_Samuel_Delgado_Natalia_Rojas
-# SamuelDelgado_JulianBejarano_AngelRuiz
 Entrega Parcial: Desarrollo de proyecto en Scratch con GitHub
 
 ## Integrantes
