@@ -1,8 +1,9 @@
-# Julian_Bejarano_Samuel_Delgado_Natalia_Rojas.
-Integrantes
+# Julian_Bejarano_Samuel_Delgado_Natalia_Rojas
+# SamuelDelgado_JulianBejarano_AngelRuiz
+Entrega Parcial: Desarrollo de proyecto en Scratch con GitHub
 
-Julián Felipe Bejarano Rojas ID 1108269
+## Integrantes
 
-Samuel Francisco Delgado González ID 1117844
-
-Laura Natalia Rojas Bautista ID 
+- Samuel Francisco Delgado González ID 1117844
+- Julian Felipe Bejarano Rojas ID 1108269
+- Laura Natalia Rojas Bautista ID 1120502
